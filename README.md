@@ -26,6 +26,6 @@ Here are some of the tools and technologies I'm comfortable with:
 
 Curious about my work? Check out my portfolio for a closer look at some of the projects I've worked on.
 
-[Explore My Portfolio]([GraMati.github.io](https://gramati.github.io/))
+[Explore My Portfolio](https://gramati.github.io/)
 
 Let's connect and collaborate to bring some amazing ideas to life! 🚀
